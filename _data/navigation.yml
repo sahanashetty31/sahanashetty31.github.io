@@ -1,0 +1,10 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: CategoryOne
+  url: /categoryone/
+- title: CategoryTwo
+  url: /categorytwo/
+- title: CategoryThree
+  url: /categorythree/
